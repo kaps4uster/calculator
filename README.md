@@ -6,7 +6,7 @@ a pocket calculator.
 [![Build Status](https://dev.azure.com/kapiloza-hct/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/kaps4uster.calculator?branchName=master)](https://dev.azure.com/kapiloza-hct/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=9&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
-to perform arithmetic on integers, and provides a test suite with mocha
+to perform arithmetic on integers, and provides a test suite with mocha 
 and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
